@@ -1,0 +1,5 @@
+LIST_OF_ACTIONS
+
+open
+latch
+close

@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "sendMessage",
+      "slots": [
+        {
+          "name": "action",
+          "type": "LIST_OF_ACTIONS"
+        }
+      ]
+    }
+  ]
+}
