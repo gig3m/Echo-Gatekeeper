@@ -24,3 +24,6 @@ Amazon, Alexa, Echo, Twilio, Rest, AWS, Lambda, Alexa Skill Kit, ASK
  
 # Usage
 Say "Alexa, tell gate to {open|latch|close}". Alexa calls the Lambda function, which calls Twilio, which sends an SMS to the gate with the content of {Action}.
+
+# Acknowledgement
+This skill was modified from [SmsAlexa](https://github.com/mihaigalos/SmsAlexa) created by [Mihai Galos](https://github.com/mihaigalos).  His code is 99.9% of this project.
