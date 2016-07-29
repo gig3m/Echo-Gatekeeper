@@ -7,7 +7,7 @@ Amazon, Alexa, Echo, Twilio, Rest, AWS, Lambda, Alexa Skill Kit, ASK
 # Description
  Echo-Gatekeeper is the implementation of an Amazon AWS Lambda function which enables sending of SMS text messages to a physical gate which can be controlled from authenticated numbers.
 
- ##Setup
+##Setup
   
 1. Create a Twilio account and purchase a number that can send SMS texts to your reciever.
 2. Gather your Twilio credentials (accountSid and authToken) as well as your outgoing number.
